@@ -1,0 +1,25 @@
+h1{
+    color: deeppink;
+    font-family: sans-serif;
+}
+h2{
+    color: crimson;
+    font:5px
+        
+}
+h3{
+    color: blue;
+    font: 5px
+}
+h4{
+    color: darkgoldenrod;
+    font: 5px
+}
+h5{
+    color: chartreuse;
+    font: 5px;
+}
+h6{
+    color: firebrick;
+    font: 5px;
+}
